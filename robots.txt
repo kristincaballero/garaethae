@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ropeikeib.lescliff.co.uk/sitemap.xml
